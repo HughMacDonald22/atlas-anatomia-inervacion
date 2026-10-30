@@ -1,0 +1,1273 @@
+[
+ {
+  "key": "Dorsal scapular nerve",
+  "es": "Nervio dorsal de la escápula",
+  "roots": "C5 (C4)",
+  "plexus": "Plexo braquial (raíz)",
+  "muscles": [
+   "Rhomboid major muscle",
+   "Rhomboid minor muscle",
+   "Levator scapulae"
+  ],
+  "skin": [],
+  "show": [
+   "Dorsal scapular nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Long thoracic nerve",
+  "es": "Nervio torácico largo",
+  "roots": "C5–C7",
+  "plexus": "Plexo braquial (raíces)",
+  "muscles": [
+   "Serratus anterior muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Long thoracic nerve"
+  ],
+  "note": "Lesión → escápula alada."
+ },
+ {
+  "key": "Suprascapular nerve",
+  "es": "Nervio supraescapular",
+  "roots": "C5–C6",
+  "plexus": "Plexo braquial (tronco superior)",
+  "muscles": [
+   "Supraspinatus muscle",
+   "Infraspinatus muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Suprascapular nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Subclavian nerve",
+  "es": "Nervio subclavio",
+  "roots": "C5–C6",
+  "plexus": "Plexo braquial (tronco superior)",
+  "muscles": [
+   "Subclavius muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Subclavian nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Lateral pectoral nerve",
+  "es": "Nervio pectoral lateral",
+  "roots": "C5–C7",
+  "plexus": "Plexo braquial (fascículo lateral)",
+  "muscles": [
+   "Clavicular head of pectoralis major muscle",
+   "Sternocostal head of pectoralis major muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Lateral pectoral nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Medial pectoral nerve",
+  "es": "Nervio pectoral medial",
+  "roots": "C8–T1",
+  "plexus": "Plexo braquial (fascículo medial)",
+  "muscles": [
+   "Pectoralis minor muscle",
+   "Sternocostal head of pectoralis major muscle",
+   "(Abdominal part of pectoralis major muscle)"
+  ],
+  "skin": [],
+  "show": [
+   "Medial pectoral nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Superior subscapular nerve",
+  "es": "Nervio subescapular superior",
+  "roots": "C5–C6",
+  "plexus": "Plexo braquial (fascículo posterior)",
+  "muscles": [
+   "Subscapularis muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Superior subscapular nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Inferior subscapular nerve",
+  "es": "Nervio subescapular inferior",
+  "roots": "C5–C6",
+  "plexus": "Plexo braquial (fascículo posterior)",
+  "muscles": [
+   "Subscapularis muscle",
+   "Teres major muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Inferior subscapular nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Thoracodorsal nerve",
+  "es": "Nervio toracodorsal",
+  "roots": "C6–C8",
+  "plexus": "Plexo braquial (fascículo posterior)",
+  "muscles": [
+   "Latissimus dorsi muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Thoracodorsal nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Axillary nerve",
+  "es": "Nervio axilar",
+  "roots": "C5–C6",
+  "plexus": "Plexo braquial (fascículo posterior)",
+  "muscles": [
+   "Deltoid muscle",
+   "Teres minor muscle"
+  ],
+  "skin": [
+   {
+    "r": "Deltoid region",
+    "p": false
+   },
+   {
+    "r": "Posterior region of arm",
+    "p": true
+   }
+  ],
+  "show": [
+   "Axillary nerve",
+   "Muscular branches of axillary nerve",
+   "Superior lateral brachial cutaneous nerve"
+  ],
+  "note": "Rama cutánea: n. cutáneo braquial lateral superior (‘parche’ del deltoides)."
+ },
+ {
+  "key": "Musculocutaneous nerve",
+  "es": "Nervio musculocutáneo",
+  "roots": "C5–C7",
+  "plexus": "Plexo braquial (fascículo lateral)",
+  "muscles": [
+   "Coracobrachialis muscle",
+   "Biceps brachii muscle",
+   "Brachialis muscle"
+  ],
+  "skin": [
+   {
+    "r": "Lateral border of forearm",
+    "p": false
+   },
+   {
+    "r": "Anterior region of forearm",
+    "p": true
+   },
+   {
+    "r": "Posterior region of forearm",
+    "p": true
+   }
+  ],
+  "show": [
+   "Musculocutaneous nerve",
+   "Lateral antebrachial cutaneous nerve"
+  ],
+  "note": "Termina como n. cutáneo antebraquial lateral."
+ },
+ {
+  "key": "Radial nerve",
+  "es": "Nervio radial",
+  "roots": "C5–T1",
+  "plexus": "Plexo braquial (fascículo posterior)",
+  "muscles": [
+   "Triceps brachii muscle",
+   "Anconeus muscle",
+   "Brachioradialis muscle",
+   "Extensor carpi radialis longus",
+   "Extensor carpi radialis brevis",
+   "Supinator",
+   "Extensor digitorum",
+   "Extensor digiti minimi",
+   "Humeral head of extensor carpi ulnaris",
+   "Ulnar head of extensor carpi ulnaris",
+   "Abductor pollicis longus",
+   "Extensor pollicis brevis",
+   "Extensor pollicis longus",
+   "Extensor indicis"
+  ],
+  "skin": [
+   {
+    "r": "Posterior region of arm",
+    "p": false
+   },
+   {
+    "r": "Posterior region of elbow",
+    "p": true
+   },
+   {
+    "r": "Posterior region of forearm",
+    "p": false
+   },
+   {
+    "r": "Posterior region of wrist",
+    "p": true
+   },
+   {
+    "r": "Dorsum of hand",
+    "p": true
+   },
+   {
+    "r": "Dorsal surfaces of digits of hand",
+    "p": true
+   }
+  ],
+  "show": [
+   "Radial nerve",
+   "Deep branch of radial nerve",
+   "Superficial branch of radial nerve",
+   "Posterior interosseous nerve of forearm",
+   "Muscular branches of radial nerve",
+   "Posterior antebrachial cutaneous nerve",
+   "Inferior lateral brachial cutaneous nerve",
+   "Dorsal digital branches of radial nerve"
+  ],
+  "note": "Mano: dorso lateral (3½ dedos, sin las falanges distales). Lesión alta → mano péndula."
+ },
+ {
+  "key": "Median nerve",
+  "es": "Nervio mediano",
+  "roots": "C6–T1",
+  "plexus": "Plexo braquial (fascículos lateral y medial)",
+  "muscles": [
+   "Superficial head of pronator teres",
+   "Deep head of pronator teres",
+   "Flexor carpi radialis",
+   "Palmaris longus muscle",
+   "Humero-ulnar head of flexor digitorum superficialis",
+   "Radial head of flexor digitorum superficialis",
+   "Flexor pollicis longus",
+   "Flexor digitorum profundus",
+   "Pronator quadratus",
+   "Abductor pollicis brevis",
+   "Opponens pollicis muscle",
+   "Superficial head of flexor pollicis brevis",
+   "Lumbrical muscles of hand"
+  ],
+  "skin": [
+   {
+    "r": "Palm",
+    "p": true
+   },
+   {
+    "r": "Palmar surfaces of digits of hand",
+    "p": true
+   },
+   {
+    "r": "Dorsal surfaces of digits of hand",
+    "p": true
+   },
+   {
+    "r": "Anterior region of wrist",
+    "p": true
+   }
+  ],
+  "show": [
+   "Median nerve",
+   "Anterior interosseous nerve of forearm",
+   "Muscular branches of median nerve",
+   "Palmar branch of median nerve",
+   "Common palmar digital branches of median nerve",
+   "Proper palmar digital branches of median nerve"
+  ],
+  "note": "FDP: solo mitad lateral (dedos II–III). Lumbricales: solo I–II. Piel: palma lateral y 3½ dedos."
+ },
+ {
+  "key": "Ulnar nerve",
+  "es": "Nervio cubital (ulnar)",
+  "roots": "C8–T1",
+  "plexus": "Plexo braquial (fascículo medial)",
+  "muscles": [
+   "Humeral head of flexor carpi ulnaris",
+   "Ulnar head of flexor carpi ulnaris",
+   "Flexor digitorum profundus",
+   "Abductor digiti minimi of hand",
+   "Flexor digiti minimi of hand",
+   "Opponens digiti minimi muscle of hand",
+   "Oblique head of adductor pollicis",
+   "Transverse head of adductor pollicis",
+   "Deep head of flexor pollicis brevis",
+   "Dorsal interossei muscles of hand",
+   "Palmar interossei muscles",
+   "Lumbrical muscles of hand"
+  ],
+  "skin": [
+   {
+    "r": "Palm",
+    "p": true
+   },
+   {
+    "r": "Dorsum of hand",
+    "p": true
+   },
+   {
+    "r": "Palmar surfaces of digits of hand",
+    "p": true
+   },
+   {
+    "r": "Dorsal surfaces of digits of hand",
+    "p": true
+   },
+   {
+    "r": "Medial border of forearm",
+    "p": true
+   }
+  ],
+  "show": [
+   "Ulnar nerve",
+   "Deep branch of ulnar nerve",
+   "Superficial branch of ulnar nerve",
+   "Dorsal branch of ulnar nerve",
+   "Palmar branch of ulnar nerve",
+   "Muscular branches of ulnar nerve",
+   "Common palmar digital branches of ulnar nerve",
+   "Proper palmar digital branches of ulnar nerve",
+   "Dorsal digital branches of ulnar nerve"
+  ],
+  "note": "FDP: mitad medial (dedos IV–V). Lumbricales III–IV. Piel: 1½ dedos mediales y borde cubital de la mano."
+ },
+ {
+  "key": "Medial brachial cutaneous nerve",
+  "es": "Nervio cutáneo braquial medial",
+  "roots": "C8–T1",
+  "plexus": "Plexo braquial (fascículo medial)",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Medial bicipital groove",
+    "p": false
+   },
+   {
+    "r": "Anterior region of arm",
+    "p": true
+   },
+   {
+    "r": "Posterior region of arm",
+    "p": true
+   }
+  ],
+  "show": [
+   "Medial brachial cutaneous nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Medial antebrachial cutaneous nerve",
+  "es": "Nervio cutáneo antebraquial medial",
+  "roots": "C8–T1",
+  "plexus": "Plexo braquial (fascículo medial)",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Medial border of forearm",
+    "p": false
+   },
+   {
+    "r": "Anterior region of forearm",
+    "p": true
+   },
+   {
+    "r": "Posterior region of forearm",
+    "p": true
+   }
+  ],
+  "show": [
+   "Medial antebrachial cutaneous nerve",
+   "Anterior branch of medial antebrachial cutaneous nerve",
+   "Posterior branch of medial antebrachial cutaneous nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Intercostal nerves",
+  "es": "Nervios intercostales",
+  "roots": "T1–T11",
+  "plexus": "Ramos anteriores torácicos",
+  "muscles": [
+   "External intercostal muscles",
+   "Internal intercostal muscles",
+   "Innermost intercostal muscles",
+   "Transversus thoracis muscle",
+   "Serratus posterior superior muscle",
+   "Serratus posterior inferior muscle",
+   "Rectus abdominis muscle",
+   "External abdominal oblique muscle",
+   "Internal abdominal oblique muscle",
+   "Transversus abdominis muscle",
+   "Levatores costarum"
+  ],
+  "skin": [
+   {
+    "r": "Pectoral region",
+    "p": false
+   },
+   {
+    "r": "Presternal region",
+    "p": false
+   },
+   {
+    "r": "Mammary region",
+    "p": false
+   },
+   {
+    "r": "Inframammary region",
+    "p": false
+   },
+   {
+    "r": "Lateral region of thorax",
+    "p": false
+   },
+   {
+    "r": "Epigastric region",
+    "p": false
+   },
+   {
+    "r": "Hypochondriac region",
+    "p": false
+   },
+   {
+    "r": "Umbilical region",
+    "p": false
+   },
+   {
+    "r": "Lateral region of abdomen",
+    "p": false
+   }
+  ],
+  "show": [
+   "Intercostal nerves",
+   "Anterior rami of thoracic nerves"
+  ],
+  "note": "T7–T11 continúan como nervios toracoabdominales hacia la pared abdominal. T10 ≈ ombligo."
+ },
+ {
+  "key": "Iliohypogastric nerve",
+  "es": "Nervio iliohipogástrico",
+  "roots": "T12–L1",
+  "plexus": "Plexo lumbar",
+  "muscles": [
+   "Internal abdominal oblique muscle",
+   "Transversus abdominis muscle"
+  ],
+  "skin": [
+   {
+    "r": "Hypogastric region",
+    "p": false
+   },
+   {
+    "r": "Hip region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Iliohypogastric nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Ilio-inguinal nerve",
+  "es": "Nervio ilioinguinal",
+  "roots": "L1",
+  "plexus": "Plexo lumbar",
+  "muscles": [
+   "Internal abdominal oblique muscle",
+   "Transversus abdominis muscle"
+  ],
+  "skin": [
+   {
+    "r": "Inguinal region",
+    "p": false
+   },
+   {
+    "r": "Urogenital region",
+    "p": true
+   },
+   {
+    "r": "Femoral triangle",
+    "p": true
+   }
+  ],
+  "show": [
+   "Ilio-inguinal nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Genitofemoral nerve",
+  "es": "Nervio genitofemoral",
+  "roots": "L1–L2",
+  "plexus": "Plexo lumbar",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Femoral triangle",
+    "p": true
+   },
+   {
+    "r": "Urogenital region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Genitofemoral nerve",
+   "Femoral branch of genitofemoral nerve",
+   "Genital branch of genitofemoral nerve"
+  ],
+  "note": "Rama genital: músculo cremáster (no modelado) y escroto/labio mayor."
+ },
+ {
+  "key": "Lateral femoral cutaneous nerve",
+  "es": "Nervio cutáneo femoral lateral",
+  "roots": "L2–L3",
+  "plexus": "Plexo lumbar",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Anterior region of thigh",
+    "p": true
+   },
+   {
+    "r": "Hip region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Lateral femoral cutaneous nerve"
+  ],
+  "note": "Atrapamiento → meralgia parestésica."
+ },
+ {
+  "key": "Femoral nerve",
+  "es": "Nervio femoral",
+  "roots": "L2–L4",
+  "plexus": "Plexo lumbar",
+  "muscles": [
+   "Iliacus muscle",
+   "Psoas major",
+   "Pectineus muscle",
+   "Sartorius muscle",
+   "Rectus femoris muscle",
+   "Vastus lateralis muscle",
+   "Vastus medialis muscle",
+   "Vastus intermedius muscle"
+  ],
+  "skin": [
+   {
+    "r": "Anterior region of thigh",
+    "p": false
+   },
+   {
+    "r": "Anterior region of knee",
+    "p": false
+   },
+   {
+    "r": "Anterior region of leg",
+    "p": true
+   },
+   {
+    "r": "Medial malleolus",
+    "p": false
+   },
+   {
+    "r": "Medial border of foot",
+    "p": true
+   },
+   {
+    "r": "Posterior region of leg",
+    "p": true
+   }
+  ],
+  "show": [
+   "Femoral nerve",
+   "Anterior cutaneous branches of femoral nerve",
+   "Saphenous nerve",
+   "Infrapatellar branch of saphenous nerve",
+   "Medial crural cutaneous branches of saphenous nerve"
+  ],
+  "note": "Psoas mayor recibe además ramos directos L1–L3. Rama terminal sensitiva: n. safeno (cara medial de pierna y pie)."
+ },
+ {
+  "key": "Obturator nerve",
+  "es": "Nervio obturador",
+  "roots": "L2–L4",
+  "plexus": "Plexo lumbar",
+  "muscles": [
+   "Adductor longus",
+   "Adductor brevis",
+   "Adductor magnus",
+   "Gracilis muscle",
+   "Obturator externus",
+   "Pectineus muscle"
+  ],
+  "skin": [
+   {
+    "r": "Anterior region of thigh",
+    "p": true
+   }
+  ],
+  "show": [
+   "Obturator nerve",
+   "Anterior branch of obturator nerve",
+   "Posterior branch of obturator nerve"
+  ],
+  "note": "Piel: parche en cara medial del muslo. Aductor mayor: porción aductora (la isquiotibial es del ciático)."
+ },
+ {
+  "key": "Superior gluteal nerve",
+  "es": "Nervio glúteo superior",
+  "roots": "L4–S1",
+  "plexus": "Plexo sacro",
+  "muscles": [
+   "Gluteus medius muscle",
+   "Gluteus minimus muscle",
+   "Tensor fasciae latae"
+  ],
+  "skin": [],
+  "show": [
+   "Superior gluteal nerve"
+  ],
+  "note": "Lesión → signo de Trendelenburg."
+ },
+ {
+  "key": "Inferior gluteal nerve",
+  "es": "Nervio glúteo inferior",
+  "roots": "L5–S2",
+  "plexus": "Plexo sacro",
+  "muscles": [
+   "Gluteus maximus muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Inferior gluteal nerve"
+  ],
+  "note": "El nervio no está modelado en el atlas; se muestra solo su territorio."
+ },
+ {
+  "key": "Nerve to piriformis muscle",
+  "es": "Nervio del piriforme",
+  "roots": "S1–S2",
+  "plexus": "Plexo sacro",
+  "muscles": [
+   "Piriformis muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Nerve to piriformis muscle"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Nerve to quadratus femoris muscle",
+  "es": "Nervio del cuadrado femoral",
+  "roots": "L4–S1",
+  "plexus": "Plexo sacro",
+  "muscles": [
+   "Quadratus femoris muscle",
+   "Inferior gemellus muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Nerve to quadratus femoris muscle"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Posterior femoral cutaneous nerve",
+  "es": "Nervio cutáneo femoral posterior",
+  "roots": "S1–S3",
+  "plexus": "Plexo sacro",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Posterior region of thigh",
+    "p": false
+   },
+   {
+    "r": "Popliteal fossa",
+    "p": false
+   },
+   {
+    "r": "Gluteal fold",
+    "p": false
+   },
+   {
+    "r": "Gluteal region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Posterior femoral cutaneous nerve",
+   "Anterior root of posterior femoral cutaneous nerve",
+   "Posterior root of posterior femoral cutaneous nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Sciatic nerve",
+  "es": "Nervio ciático",
+  "roots": "L4–S3",
+  "plexus": "Plexo sacro",
+  "muscles": [
+   "Semitendinosus muscle",
+   "Semimembranosus muscle",
+   "Long head of biceps femoris",
+   "Short head of biceps femoris",
+   "Adductor magnus"
+  ],
+  "skin": [],
+  "show": [
+   "Sciatic nerve"
+  ],
+  "note": "Se divide en n. tibial y n. fibular común (habitualmente en el vértice del rombo poplíteo). La cabeza corta del bíceps femoral la inerva la división fibular."
+ },
+ {
+  "key": "Tibial nerve",
+  "es": "Nervio tibial",
+  "roots": "L4–S3",
+  "plexus": "Plexo sacro (ciático)",
+  "muscles": [
+   "Lateral head of gastrocnemius",
+   "Medial head of gastrocnemius",
+   "Soleus muscle",
+   "Plantaris muscle",
+   "Popliteus muscle",
+   "Tibialis posterior muscle",
+   "Flexor digitorum longus",
+   "Flexor hallucis longus"
+  ],
+  "skin": [
+   {
+    "r": "Heel region",
+    "p": false
+   },
+   {
+    "r": "Posterior region of leg",
+    "p": true
+   },
+   {
+    "r": "Medial retromalleolar region",
+    "p": false
+   }
+  ],
+  "show": [
+   "Tibial nerve",
+   "Medial sural cutaneous nerve"
+  ],
+  "note": "En el pie se divide en nervios plantares medial y lateral."
+ },
+ {
+  "key": "Medial plantar nerve",
+  "es": "Nervio plantar medial",
+  "roots": "L4–L5",
+  "plexus": "Plexo sacro (tibial)",
+  "muscles": [
+   "Abductor hallucis",
+   "Flexor digitorum brevis",
+   "Medial head of flexor hallucis brevis",
+   "Lateral head of flexor hallucis brevis",
+   "Lumbrical muscles of foot"
+  ],
+  "skin": [
+   {
+    "r": "Sole",
+    "p": true
+   },
+   {
+    "r": "Plantar surfaces of digits of foot",
+    "p": true
+   },
+   {
+    "r": "Medial part of longitudinal arch of foot",
+    "p": false
+   }
+  ],
+  "show": [
+   "Medial plantar nerve",
+   "Common plantar digital branches of medial plantar nerve",
+   "Proper plantar digital branches of medial plantar nerve"
+  ],
+  "note": "Lumbricales: solo el 1.º. Piel: planta medial y 3½ dedos (análogo al mediano)."
+ },
+ {
+  "key": "Lateral plantar nerve",
+  "es": "Nervio plantar lateral",
+  "roots": "S1–S2",
+  "plexus": "Plexo sacro (tibial)",
+  "muscles": [
+   "Quadratus plantae muscle",
+   "Abductor digiti minimi of foot",
+   "Flexor digiti minimi of foot",
+   "Oblique head of adductor hallucis",
+   "Transverse head of adductor hallucis",
+   "Plantar interossei muscles",
+   "Dorsal interossei muscles of foot",
+   "Lumbrical muscles of foot",
+   "(Opponens digiti minimi muscle of foot)"
+  ],
+  "skin": [
+   {
+    "r": "Sole",
+    "p": true
+   },
+   {
+    "r": "Plantar surfaces of digits of foot",
+    "p": true
+   },
+   {
+    "r": "Lateral part of longitudinal arch of foot",
+    "p": false
+   }
+  ],
+  "show": [
+   "Lateral plantar nerve",
+   "Common plantar digital branches of lateral plantar nerve",
+   "Proper plantar digital branches of lateral plantar nerve"
+  ],
+  "note": "Lumbricales 2.º–4.º. Análogo al cubital en la mano."
+ },
+ {
+  "key": "Common fibular nerve",
+  "es": "Nervio fibular (peroneo) común",
+  "roots": "L4–S2",
+  "plexus": "Plexo sacro (ciático)",
+  "muscles": [
+   "Short head of biceps femoris"
+  ],
+  "skin": [
+   {
+    "r": "Posterior region of leg",
+    "p": true
+   },
+   {
+    "r": "Anterior region of leg",
+    "p": true
+   }
+  ],
+  "show": [
+   "Common fibular nerve",
+   "Sural communicating branch of common fibular nerve"
+  ],
+  "note": "Rodea el cuello del peroné: sitio frecuente de lesión → pie caído. Da el n. cutáneo sural lateral."
+ },
+ {
+  "key": "Superficial fibular nerve",
+  "es": "Nervio fibular superficial",
+  "roots": "L4–S1",
+  "plexus": "Plexo sacro (fibular común)",
+  "muscles": [
+   "Fibularis longus muscle",
+   "Fibularis brevis muscle"
+  ],
+  "skin": [
+   {
+    "r": "Anterior region of leg",
+    "p": true
+   },
+   {
+    "r": "Dorsum of foot",
+    "p": false
+   },
+   {
+    "r": "Dorsal surfaces of digits of foot",
+    "p": true
+   },
+   {
+    "r": "Anterior region of ankle",
+    "p": true
+   }
+  ],
+  "show": [
+   "Superficial fibular nerve",
+   "Medial dorsal cutaneous nerve of foot",
+   "Intermediate dorsal cutaneous nerve of foot",
+   "Dorsal digital branches of superficial fibular nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Deep fibular nerve",
+  "es": "Nervio fibular profundo",
+  "roots": "L4–L5",
+  "plexus": "Plexo sacro (fibular común)",
+  "muscles": [
+   "Tibialis anterior muscle",
+   "Extensor digitorum longus",
+   "Extensor hallucis longus",
+   "Fibularis tertius muscle",
+   "Extensor digitorum brevis",
+   "Extensor hallucis brevis"
+  ],
+  "skin": [
+   {
+    "r": "Dorsal surfaces of digits of foot",
+    "p": true
+   }
+  ],
+  "show": [
+   "Deep fibular nerve",
+   "Muscular branches of deep fibular nerve",
+   "Dorsal digital branches of deep fibular nerve"
+  ],
+  "note": "Piel: solo el primer espacio interdigital dorsal."
+ },
+ {
+  "key": "Sural nerve",
+  "es": "Nervio sural",
+  "roots": "S1–S2",
+  "plexus": "Plexo sacro (tibial + fibular común)",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Lateral border of foot",
+    "p": false
+   },
+   {
+    "r": "Lateral malleolus",
+    "p": false
+   },
+   {
+    "r": "Lateral retromalleolar region",
+    "p": false
+   },
+   {
+    "r": "Posterior region of leg",
+    "p": true
+   },
+   {
+    "r": "Heel region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Sural nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Pudendal nerve",
+  "es": "Nervio pudendo",
+  "roots": "S2–S4",
+  "plexus": "Plexo sacro",
+  "muscles": [
+   "External anal sphincter",
+   "Perineal muscles",
+   "Pubococcygeus muscle",
+   "Pubo-analis muscle"
+  ],
+  "skin": [
+   {
+    "r": "Anal region",
+    "p": false
+   },
+   {
+    "r": "Urogenital region",
+    "p": false
+   }
+  ],
+  "show": [
+   "Pudendal nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Accessory nerve (XI)",
+  "es": "Nervio accesorio (XI)",
+  "roots": "Núcleo bulbar/espinal C1–C5",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Sternocleidomastoid muscle",
+   "Trapezius muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Accessory nerve (XI)"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Hypoglossal nerve (XII)",
+  "es": "Nervio hipogloso (XII)",
+  "roots": "Núcleo del hipogloso",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Genioglossus muscle",
+   "Hyoglossus muscle",
+   "Geniohyoid muscle",
+   "Thyrohyoid muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Hypoglossal nerve (XII)"
+  ],
+  "note": "Genihioideo y tirohioideo: fibras de C1 que viajan con el XII."
+ },
+ {
+  "key": "Oculomotor nerve (III)",
+  "es": "Nervio oculomotor (III)",
+  "roots": "Mesencéfalo",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Superior rectus muscle",
+   "Inferior rectus muscle",
+   "Medial rectus muscle",
+   "Inferior oblique muscle",
+   "Levator palpebrae superioris"
+  ],
+  "skin": [],
+  "show": [
+   "Oculomotor nerve (III)"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Trochlear nerve (IV)",
+  "es": "Nervio troclear (IV)",
+  "roots": "Mesencéfalo",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Superior oblique muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Trochlear nerve (IV)"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Abducens nerve (VI)",
+  "es": "Nervio abducens (VI)",
+  "roots": "Puente",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Lateral rectus muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Abducens nerve (VI)"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Ophthalmic nerve",
+  "es": "Nervio oftálmico (V1)",
+  "roots": "Ganglio trigeminal",
+  "plexus": "Trigémino",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Frontal region",
+    "p": false
+   },
+   {
+    "r": "Orbital region",
+    "p": true
+   },
+   {
+    "r": "Nasal region",
+    "p": true
+   },
+   {
+    "r": "Parietal region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Ophthalmic nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Maxillary nerve",
+  "es": "Nervio maxilar (V2)",
+  "roots": "Ganglio trigeminal",
+  "plexus": "Trigémino",
+  "muscles": [],
+  "skin": [
+   {
+    "r": "Infra-orbital region",
+    "p": false
+   },
+   {
+    "r": "Zygomatic region",
+    "p": false
+   },
+   {
+    "r": "Oral region",
+    "p": true
+   },
+   {
+    "r": "Orbital region",
+    "p": true
+   },
+   {
+    "r": "Nasal region",
+    "p": true
+   },
+   {
+    "r": "Buccal region",
+    "p": true
+   },
+   {
+    "r": "Temporal region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Maxillary nerve"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Trigeminal nerve (V)",
+  "es": "Nervio trigémino (V) – división mandibular (V3)",
+  "roots": "Puente",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Superficial part of masseter",
+   "Deep part of masseter",
+   "Temporalis muscle",
+   "Medial pterygoid muscle",
+   "Superior head of lateral pterygoid muscle",
+   "Inferior head of lateral pterygoid muscle",
+   "Mylohyoid muscle",
+   "Anterior belly of digastric muscle"
+  ],
+  "skin": [
+   {
+    "r": "Mental region",
+    "p": false
+   },
+   {
+    "r": "Oral region",
+    "p": true
+   },
+   {
+    "r": "Buccal region",
+    "p": true
+   },
+   {
+    "r": "Temporal region",
+    "p": true
+   },
+   {
+    "r": "Parotideomasseteric region",
+    "p": true
+   },
+   {
+    "r": "Auricular region",
+    "p": true
+   }
+  ],
+  "show": [
+   "Trigeminal nerve (V)",
+   "Motor root of trigeminal nerve",
+   "Anterior division of mandibular nerve",
+   "Posterior division of mandibular nerve",
+   "Inferior alveolar nerve",
+   "Mental nerve",
+   "Buccal nerve",
+   "Nerve to mylohyoid muscle",
+   "Lingual nerve"
+  ],
+  "note": "Motor: músculos de la masticación (V3). Para la piel de V1 y V2 selecciona nervio oftálmico/maxilar."
+ },
+ {
+  "key": "Facial nerve (VII)",
+  "es": "Nervio facial (VII)",
+  "roots": "Puente",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Frontalis muscle",
+   "Occipitalis muscle",
+   "Temporoparietalis muscle",
+   "Orbital part of orbicularis oculi",
+   "Palpebral part of orbicularis oculi",
+   "Corrugator supercilii",
+   "Procerus muscle",
+   "Nasalis muscle",
+   "Depressor septi nasi",
+   "Levator labii superioris",
+   "Levator nasolabialis",
+   "Levator anguli oris",
+   "Zygomaticus major muscle",
+   "Zygomaticus minor muscle",
+   "Risorius muscle",
+   "Bucinator",
+   "Orbicularis oris muscle",
+   "Depressor anguli oris",
+   "Depressor labii inferioris",
+   "Mentalis muscle",
+   "Platysma",
+   "Posterior belly of digastric muscle",
+   "Stylohyoid muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Facial nerve (VII)",
+   "Chorda tympani"
+  ],
+  "note": "Motor de la mímica. La cuerda del tímpano lleva gusto de los 2/3 anteriores de la lengua."
+ },
+ {
+  "key": "Glossopharyngeal nerve (IX)",
+  "es": "Nervio glosofaríngeo (IX)",
+  "roots": "Bulbo",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Stylopharyngeus muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Glossopharyngeal nerve (IX)"
+  ],
+  "note": ""
+ },
+ {
+  "key": "Vagus nerve (X)",
+  "es": "Nervio vago (X)",
+  "roots": "Bulbo",
+  "plexus": "Nervio craneal",
+  "muscles": [
+   "Superior pharyngeal constrictor",
+   "Middle pharyngeal constrictor",
+   "Inferior pharyngeal constrictor",
+   "Palatopharyngeus muscle",
+   "Straight part of cricothyroid muscle",
+   "Oblique part of cricothyroid muscle",
+   "Posterior crico-arytenoid muscle",
+   "Lateral crico-arytenoid muscle",
+   "Transverse arytenoid muscle",
+   "External part of thyro-arytenoid muscle",
+   "Thyro-epiglottic part of thyro-arytenoid muscle",
+   "Ary-epiglottic part of oblique arytenoid muscle"
+  ],
+  "skin": [],
+  "show": [
+   "Vagus nerve (X)"
+  ],
+  "note": "También inervación parasimpática de vísceras torácicas y abdominales."
+ }
+]

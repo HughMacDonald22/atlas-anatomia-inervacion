@@ -1,0 +1,73 @@
+{
+  "_ayuda": "Capas definidas a mano. Cada región lista sus capas de SUPERFICIAL a PROFUNDA; los nombres deben coincidir con los del modelo (inglés, Terminologia Anatomica). Un músculo listado aquí sale de su región original. Las regiones no listadas usan el cálculo automático de profundidad.",
+  "Abdomen": [
+    {
+      "capa": "Oblicuo externo",
+      "musculos": [
+        "External abdominal oblique muscle",
+        "Inguinal ligament",
+        "Linea alba"
+      ]
+    },
+    {
+      "capa": "Oblicuo interno",
+      "musculos": [
+        "Internal abdominal oblique muscle"
+      ]
+    },
+    {
+      "capa": "Recto del abdomen y piramidal",
+      "musculos": [
+        "Rectus abdominis muscle",
+        "Pyramidalis muscle"
+      ]
+    },
+    {
+      "capa": "Transverso del abdomen",
+      "musculos": [
+        "Transversus abdominis muscle"
+      ]
+    }
+  ],
+  "Pared abdominal posterior": [
+    {
+      "capa": "Psoas mayor e ilíaco",
+      "musculos": [
+        "Psoas major",
+        "Iliacus muscle"
+      ]
+    },
+    {
+      "capa": "Cuadrado lumbar",
+      "musculos": [
+        "Quadratus lumborum muscle"
+      ]
+    }
+  ],
+  "Glúteo": [
+    {
+      "capa": "Plano superficial: glúteo mayor",
+      "musculos": [
+        "Gluteus maximus muscle"
+      ]
+    },
+    {
+      "capa": "Plano medio: glúteo medio y rotadores",
+      "musculos": [
+        "Gluteus medius muscle",
+        "Piriformis muscle",
+        "Superior gemellus muscle",
+        "Inferior gemellus muscle",
+        "Obturator internus",
+        "Quadratus femoris muscle"
+      ]
+    },
+    {
+      "capa": "Plano profundo: glúteo mínimo",
+      "musculos": [
+        "Gluteus minimus muscle",
+        "Obturator externus"
+      ]
+    }
+  ]
+}

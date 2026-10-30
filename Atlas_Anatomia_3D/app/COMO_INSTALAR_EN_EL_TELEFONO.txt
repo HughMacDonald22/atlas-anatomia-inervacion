@@ -1,0 +1,44 @@
+ATLAS ANATÓMICO 3D — CÓMO INSTALARLO EN EL TELÉFONO
+====================================================
+
+La app es una "PWA" (aplicación web instalable). Para que el teléfono la
+instale necesita estar en una dirección web con https. La forma gratuita y
+permanente es GitHub Pages. Se hace una sola vez (unos 10 minutos).
+
+1) PUBLICARLA (desde el computador)
+   a. Crea una cuenta gratis en https://github.com (si no tienes).
+   b. Botón "+" (arriba a la derecha) > "New repository".
+      - Nombre: atlas-anatomia
+      - Marca "Public"  >  "Create repository".
+   c. En la página del repositorio: "uploading an existing file".
+      Arrastra TODO el contenido de esta carpeta "app" (index.html, app.js,
+      sw.js, manifest.webmanifest y las carpetas data, lib e icons).
+      Los archivos .bat, .ps1 y .py no son necesarios, pero no molestan.
+      Pulsa "Commit changes" y espera a que termine la subida.
+   d. Settings > Pages > "Build and deployment":
+      Source = "Deploy from a branch", Branch = "main" / "(root)" > Save.
+   e. En 1–2 minutos aparece la dirección, del tipo:
+      https://TU-USUARIO.github.io/atlas-anatomia/
+
+2) INSTALARLA EN EL TELÉFONO
+   Android (Chrome): abre la dirección > menú ⋮ > "Instalar aplicación"
+                     (o "Agregar a la pantalla principal").
+   iPhone (Safari):  abre la dirección > botón Compartir > "Agregar a inicio".
+   La primera vez, deja la app abierta 1 minuto con wifi: descarga unos 13 MB
+   y desde ahí funciona SIN INTERNET.
+
+3) USO EN EL TELÉFONO
+   - Un dedo rota, dos dedos hacen zoom y desplazan, doble toque acerca.
+   - Toca una estructura para ver su ficha (desliza o toca × para cerrarla).
+   - Barra inferior: Capas, Músculos, Buscar, Nervios, Piel (dermatomas), Vista.
+   - En "Vista": vistas estándar, lado derecho/izquierdo, plano de corte y
+     "Alta calidad" (viene apagada en el teléfono para que vaya fluido).
+
+4) ACTUALIZAR
+   Cuando haya una versión nueva, sube los archivos nuevos al mismo
+   repositorio (reemplazando). El teléfono la toma la próxima vez que abras
+   la app con internet (ciérrala y ábrela de nuevo).
+
+Nota de licencia: los modelos derivan de Z-Anatomy / BodyParts3D (CC BY-SA 4.0).
+Publicarlos es compatible con la licencia mientras se mantenga la atribución
+que ya aparece en la app.
