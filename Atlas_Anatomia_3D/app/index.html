@@ -106,6 +106,7 @@ footer a{color:inherit}
 
 /* ---------- móvil: modelo a pantalla completa, navegación inferior y hojas deslizables ---------- */
 #mnav,.sheetClose,#infoGrab{display:none}
+.mver{display:none} body.mobile .mver{display:block}
 body.mobile{--nav:calc(60px + env(safe-area-inset-bottom,0px))}
 body.mobile aside,body.mobile .bar{left:0!important;right:0!important;width:auto!important;top:auto!important;border-radius:16px 16px 0 0;border-bottom:0;box-shadow:0 -6px 24px rgba(0,0,0,.14);transition:transform .26s cubic-bezier(.2,.8,.2,1);transform:translateY(calc(100% + var(--nav) + 20px))}
 body.mobile #left{bottom:var(--nav);height:58vh;z-index:21}
@@ -167,6 +168,7 @@ body.mobile .mtitle{display:block}
       <button class="b" id="bUnpeel">Reponer capa</button>
       <button class="b" id="bShowAll">Mostrar todo <span id="hiddenCt" class="muted"></span></button>
     </div>
+    <p class="small muted mver">Versión <span id="appVer2"></span></p>
     <p class="small muted kbd">Teclas: <b>H</b> ocultar selección · <b>I</b> aislar · <b>F</b> enfocar · <b>Esc</b> salir.</p>
   </div>
   <div class="tab" id="tMusc" hidden><div id="muscles"></div></div>
@@ -182,7 +184,7 @@ body.mobile .mtitle{display:block}
     <p class="small muted" style="margin:2px 4px 0">Mapa segmentario de la piel (ASIA/ISNCSCI). Elige un nivel o haz clic sobre la piel.</p>
     <div id="derms"></div>
   </div>
-  <footer>Datos: <a href="https://www.z-anatomy.com" target="_blank" rel="noopener">Z-Anatomy</a> (CC BY-SA 4.0), derivado de BodyParts3D © DBCLS (CC BY-SA). Tabla de inervación: material docente, verificar con bibliografía.</footer>
+  <footer>Datos: <a href="https://www.z-anatomy.com" target="_blank" rel="noopener">Z-Anatomy</a> (CC BY-SA 4.0), derivado de BodyParts3D © DBCLS (CC BY-SA). Tabla de inervación: material docente, verificar con bibliografía. · Versión <span id="appVer"></span></footer>
 </aside>
 <aside id="right"><button class="sheetClose" data-close="info" aria-label="Cerrar ficha"><span>×</span></button><div id="info" class="empty"></div></aside>
 <div class="bar">
