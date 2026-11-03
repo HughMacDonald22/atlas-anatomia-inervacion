@@ -13,7 +13,9 @@
   "show": [
    "Dorsal scapular nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Sale directamente de la raíz C5 (ramo anterior), antes de formarse los troncos."
  },
  {
   "key": "Long thoracic nerve",
@@ -27,7 +29,9 @@
   "show": [
    "Long thoracic nerve"
   ],
-  "note": "Lesión → escápula alada."
+  "note": "Lesión → escápula alada.",
+  "via": [],
+  "route": "Sale directamente de las raíces C5, C6 y C7, antes de formarse los troncos."
  },
  {
   "key": "Suprascapular nerve",
@@ -42,7 +46,11 @@
   "show": [
    "Suprascapular nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Superior trunk of brachial plexus"
+  ],
+  "route": "Raíces C5–C6 → tronco superior (porción supraclavicular)."
  },
  {
   "key": "Subclavian nerve",
@@ -56,7 +64,11 @@
   "show": [
    "Subclavian nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Superior trunk of brachial plexus"
+  ],
+  "route": "Raíces C5–C6 → tronco superior."
  },
  {
   "key": "Lateral pectoral nerve",
@@ -71,7 +83,14 @@
   "show": [
    "Lateral pectoral nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Anterior division of superior trunk of brachial plexus",
+   "Anterior division of middle trunk of brachial plexus"
+  ],
+  "route": "Raíces C5–C7 → troncos superior y medio → divisiones anteriores → fascículo lateral → nervio pectoral lateral."
  },
  {
   "key": "Medial pectoral nerve",
@@ -87,7 +106,12 @@
   "show": [
    "Medial pectoral nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Inferior trunk of brachial plexus",
+   "Anterior division of inferior trunk of brachial plexus"
+  ],
+  "route": "Raíces C8–T1 → tronco inferior → división anterior → fascículo medial → nervio pectoral medial."
  },
  {
   "key": "Superior subscapular nerve",
@@ -101,7 +125,17 @@
   "show": [
    "Superior subscapular nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Inferior trunk of brachial plexus",
+   "Posterior division of superior trunk of brachial plexus",
+   "Posterior division of middle trunk of brachial plexus",
+   "Posterior division of inferior trunk of brachial plexus",
+   "Posterior cord of brachial plexus"
+  ],
+  "route": "Raíces C5–C6 → troncos superior, medio e inferior → divisiones posteriores → fascículo posterior."
  },
  {
   "key": "Inferior subscapular nerve",
@@ -116,7 +150,17 @@
   "show": [
    "Inferior subscapular nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Inferior trunk of brachial plexus",
+   "Posterior division of superior trunk of brachial plexus",
+   "Posterior division of middle trunk of brachial plexus",
+   "Posterior division of inferior trunk of brachial plexus",
+   "Posterior cord of brachial plexus"
+  ],
+  "route": "Raíces C5–C6 → troncos superior, medio e inferior → divisiones posteriores → fascículo posterior."
  },
  {
   "key": "Thoracodorsal nerve",
@@ -130,7 +174,17 @@
   "show": [
    "Thoracodorsal nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Inferior trunk of brachial plexus",
+   "Posterior division of superior trunk of brachial plexus",
+   "Posterior division of middle trunk of brachial plexus",
+   "Posterior division of inferior trunk of brachial plexus",
+   "Posterior cord of brachial plexus"
+  ],
+  "route": "Raíces C6–C8 → troncos superior, medio e inferior → divisiones posteriores → fascículo posterior → nervio toracodorsal."
  },
  {
   "key": "Axillary nerve",
@@ -156,7 +210,17 @@
    "Muscular branches of axillary nerve",
    "Superior lateral brachial cutaneous nerve"
   ],
-  "note": "Rama cutánea: n. cutáneo braquial lateral superior (‘parche’ del deltoides)."
+  "note": "Rama cutánea: n. cutáneo braquial lateral superior (‘parche’ del deltoides).",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Inferior trunk of brachial plexus",
+   "Posterior division of superior trunk of brachial plexus",
+   "Posterior division of middle trunk of brachial plexus",
+   "Posterior division of inferior trunk of brachial plexus",
+   "Posterior cord of brachial plexus"
+  ],
+  "route": "Raíces C5–C6 → troncos superior, medio e inferior → divisiones posteriores → fascículo posterior → nervio axilar (pasa por el espacio cuadrangular)."
  },
  {
   "key": "Musculocutaneous nerve",
@@ -186,7 +250,14 @@
    "Musculocutaneous nerve",
    "Lateral antebrachial cutaneous nerve"
   ],
-  "note": "Termina como n. cutáneo antebraquial lateral."
+  "note": "Termina como n. cutáneo antebraquial lateral.",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Anterior division of superior trunk of brachial plexus",
+   "Anterior division of middle trunk of brachial plexus"
+  ],
+  "route": "Raíces C5–C7 → troncos superior y medio → divisiones anteriores → fascículo lateral → nervio musculocutáneo."
  },
  {
   "key": "Radial nerve",
@@ -245,7 +316,17 @@
    "Inferior lateral brachial cutaneous nerve",
    "Dorsal digital branches of radial nerve"
   ],
-  "note": "Mano: dorso lateral (3½ dedos, sin las falanges distales). Lesión alta → mano péndula."
+  "note": "Mano: dorso lateral (3½ dedos, sin las falanges distales). Lesión alta → mano péndula.",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Inferior trunk of brachial plexus",
+   "Posterior division of superior trunk of brachial plexus",
+   "Posterior division of middle trunk of brachial plexus",
+   "Posterior division of inferior trunk of brachial plexus",
+   "Posterior cord of brachial plexus"
+  ],
+  "route": "Raíces C5–T1 → troncos superior, medio e inferior → divisiones posteriores → fascículo posterior → nervio radial (rama terminal mayor del fascículo posterior)."
  },
  {
   "key": "Median nerve",
@@ -293,7 +374,16 @@
    "Common palmar digital branches of median nerve",
    "Proper palmar digital branches of median nerve"
   ],
-  "note": "FDP: solo mitad lateral (dedos II–III). Lumbricales: solo I–II. Piel: palma lateral y 3½ dedos."
+  "note": "FDP: solo mitad lateral (dedos II–III). Lumbricales: solo I–II. Piel: palma lateral y 3½ dedos.",
+  "via": [
+   "Superior trunk of brachial plexus",
+   "Middle trunk of brachial plexus",
+   "Anterior division of superior trunk of brachial plexus",
+   "Anterior division of middle trunk of brachial plexus",
+   "Inferior trunk of brachial plexus",
+   "Anterior division of inferior trunk of brachial plexus"
+  ],
+  "route": "Raíz lateral: C6–C7 → troncos superior y medio → divisiones anteriores → fascículo lateral. Raíz medial: C8–T1 → tronco inferior → división anterior → fascículo medial. Ambas raíces se unen por delante de la arteria axilar."
  },
  {
   "key": "Ulnar nerve",
@@ -347,7 +437,12 @@
    "Proper palmar digital branches of ulnar nerve",
    "Dorsal digital branches of ulnar nerve"
   ],
-  "note": "FDP: mitad medial (dedos IV–V). Lumbricales III–IV. Piel: 1½ dedos mediales y borde cubital de la mano."
+  "note": "FDP: mitad medial (dedos IV–V). Lumbricales III–IV. Piel: 1½ dedos mediales y borde cubital de la mano.",
+  "via": [
+   "Inferior trunk of brachial plexus",
+   "Anterior division of inferior trunk of brachial plexus"
+  ],
+  "route": "Raíces C8–T1 → tronco inferior → división anterior → fascículo medial → nervio cubital."
  },
  {
   "key": "Medial brachial cutaneous nerve",
@@ -372,7 +467,12 @@
   "show": [
    "Medial brachial cutaneous nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Inferior trunk of brachial plexus",
+   "Anterior division of inferior trunk of brachial plexus"
+  ],
+  "route": "Raíces C8–T1 → tronco inferior → división anterior → fascículo medial."
  },
  {
   "key": "Medial antebrachial cutaneous nerve",
@@ -399,7 +499,12 @@
    "Anterior branch of medial antebrachial cutaneous nerve",
    "Posterior branch of medial antebrachial cutaneous nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [
+   "Inferior trunk of brachial plexus",
+   "Anterior division of inferior trunk of brachial plexus"
+  ],
+  "route": "Raíces C8–T1 → tronco inferior → división anterior → fascículo medial."
  },
  {
   "key": "Intercostal nerves",
@@ -461,7 +566,9 @@
    "Intercostal nerves",
    "Anterior rami of thoracic nerves"
   ],
-  "note": "T7–T11 continúan como nervios toracoabdominales hacia la pared abdominal. T10 ≈ ombligo."
+  "note": "T7–T11 continúan como nervios toracoabdominales hacia la pared abdominal. T10 ≈ ombligo.",
+  "via": [],
+  "route": "Ramos anteriores de T1–T11; no forman plexo: cada uno recorre su espacio intercostal."
  },
  {
   "key": "Iliohypogastric nerve",
@@ -485,7 +592,9 @@
   "show": [
    "Iliohypogastric nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo lumbar: ramo anterior de L1 (con T12), emerge por el borde lateral del psoas."
  },
  {
   "key": "Ilio-inguinal nerve",
@@ -513,7 +622,9 @@
   "show": [
    "Ilio-inguinal nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo lumbar: ramo anterior de L1, emerge por el borde lateral del psoas."
  },
  {
   "key": "Genitofemoral nerve",
@@ -536,7 +647,9 @@
    "Femoral branch of genitofemoral nerve",
    "Genital branch of genitofemoral nerve"
   ],
-  "note": "Rama genital: músculo cremáster (no modelado) y escroto/labio mayor."
+  "note": "Rama genital: músculo cremáster (no modelado) y escroto/labio mayor.",
+  "via": [],
+  "route": "Plexo lumbar: L1–L2, atraviesa el psoas y desciende por su cara anterior."
  },
  {
   "key": "Lateral femoral cutaneous nerve",
@@ -557,7 +670,9 @@
   "show": [
    "Lateral femoral cutaneous nerve"
   ],
-  "note": "Atrapamiento → meralgia parestésica."
+  "note": "Atrapamiento → meralgia parestésica.",
+  "via": [],
+  "route": "Plexo lumbar: divisiones posteriores de L2–L3, emerge por el borde lateral del psoas."
  },
  {
   "key": "Femoral nerve",
@@ -607,7 +722,9 @@
    "Infrapatellar branch of saphenous nerve",
    "Medial crural cutaneous branches of saphenous nerve"
   ],
-  "note": "Psoas mayor recibe además ramos directos L1–L3. Rama terminal sensitiva: n. safeno (cara medial de pierna y pie)."
+  "note": "Psoas mayor recibe además ramos directos L1–L3. Rama terminal sensitiva: n. safeno (cara medial de pierna y pie).",
+  "via": [],
+  "route": "Plexo lumbar: divisiones posteriores de L2–L4, formado dentro del psoas mayor; sale entre psoas e ilíaco."
  },
  {
   "key": "Obturator nerve",
@@ -633,7 +750,9 @@
    "Anterior branch of obturator nerve",
    "Posterior branch of obturator nerve"
   ],
-  "note": "Piel: parche en cara medial del muslo. Aductor mayor: porción aductora (la isquiotibial es del ciático)."
+  "note": "Piel: parche en cara medial del muslo. Aductor mayor: porción aductora (la isquiotibial es del ciático).",
+  "via": [],
+  "route": "Plexo lumbar: divisiones anteriores de L2–L4, emerge por el borde medial del psoas y sale por el canal obturador."
  },
  {
   "key": "Superior gluteal nerve",
@@ -649,7 +768,9 @@
   "show": [
    "Superior gluteal nerve"
   ],
-  "note": "Lesión → signo de Trendelenburg."
+  "note": "Lesión → signo de Trendelenburg.",
+  "via": [],
+  "route": "Plexo sacro: L4–S1 (tronco lumbosacro + S1), sale por el foramen ciático mayor por encima del piriforme."
  },
  {
   "key": "Inferior gluteal nerve",
@@ -663,7 +784,9 @@
   "show": [
    "Inferior gluteal nerve"
   ],
-  "note": "El nervio no está modelado en el atlas; se muestra solo su territorio."
+  "note": "El nervio no está modelado en el atlas; se muestra solo su territorio.",
+  "via": [],
+  "route": "Plexo sacro: L5–S2, sale por el foramen ciático mayor por debajo del piriforme."
  },
  {
   "key": "Nerve to piriformis muscle",
@@ -677,7 +800,9 @@
   "show": [
    "Nerve to piriformis muscle"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo sacro: S1–S2."
  },
  {
   "key": "Nerve to quadratus femoris muscle",
@@ -692,7 +817,9 @@
   "show": [
    "Nerve to quadratus femoris muscle"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo sacro: L4–S1."
  },
  {
   "key": "Posterior femoral cutaneous nerve",
@@ -723,7 +850,9 @@
    "Anterior root of posterior femoral cutaneous nerve",
    "Posterior root of posterior femoral cutaneous nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo sacro: S1–S3, sale por debajo del piriforme."
  },
  {
   "key": "Sciatic nerve",
@@ -741,7 +870,9 @@
   "show": [
    "Sciatic nerve"
   ],
-  "note": "Se divide en n. tibial y n. fibular común (habitualmente en el vértice del rombo poplíteo). La cabeza corta del bíceps femoral la inerva la división fibular."
+  "note": "Se divide en n. tibial y n. fibular común (habitualmente en el vértice del rombo poplíteo). La cabeza corta del bíceps femoral la inerva la división fibular.",
+  "via": [],
+  "route": "Plexo sacro: tronco lumbosacro (L4–L5) + raíces S1–S3 sobre el piriforme; sale por el foramen ciático mayor, por debajo del piriforme."
  },
  {
   "key": "Tibial nerve",
@@ -776,7 +907,9 @@
    "Tibial nerve",
    "Medial sural cutaneous nerve"
   ],
-  "note": "En el pie se divide en nervios plantares medial y lateral."
+  "note": "En el pie se divide en nervios plantares medial y lateral.",
+  "via": [],
+  "route": "Plexo sacro (divisiones anteriores L4–S3) → nervio ciático → nervio tibial (vértice de la fosa poplítea)."
  },
  {
   "key": "Medial plantar nerve",
@@ -809,7 +942,9 @@
    "Common plantar digital branches of medial plantar nerve",
    "Proper plantar digital branches of medial plantar nerve"
   ],
-  "note": "Lumbricales: solo el 1.º. Piel: planta medial y 3½ dedos (análogo al mediano)."
+  "note": "Lumbricales: solo el 1.º. Piel: planta medial y 3½ dedos (análogo al mediano).",
+  "via": [],
+  "route": "Plexo sacro → ciático → tibial → nervio plantar medial (bajo el retináculo flexor)."
  },
  {
   "key": "Lateral plantar nerve",
@@ -846,7 +981,9 @@
    "Common plantar digital branches of lateral plantar nerve",
    "Proper plantar digital branches of lateral plantar nerve"
   ],
-  "note": "Lumbricales 2.º–4.º. Análogo al cubital en la mano."
+  "note": "Lumbricales 2.º–4.º. Análogo al cubital en la mano.",
+  "via": [],
+  "route": "Plexo sacro → ciático → tibial → nervio plantar lateral."
  },
  {
   "key": "Common fibular nerve",
@@ -870,7 +1007,9 @@
    "Common fibular nerve",
    "Sural communicating branch of common fibular nerve"
   ],
-  "note": "Rodea el cuello del peroné: sitio frecuente de lesión → pie caído. Da el n. cutáneo sural lateral."
+  "note": "Rodea el cuello del peroné: sitio frecuente de lesión → pie caído. Da el n. cutáneo sural lateral.",
+  "via": [],
+  "route": "Plexo sacro (divisiones posteriores L4–S2) → nervio ciático → nervio fibular común."
  },
  {
   "key": "Superficial fibular nerve",
@@ -905,7 +1044,9 @@
    "Intermediate dorsal cutaneous nerve of foot",
    "Dorsal digital branches of superficial fibular nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo sacro → ciático → fibular común → fibular superficial."
  },
  {
   "key": "Deep fibular nerve",
@@ -931,7 +1072,9 @@
    "Muscular branches of deep fibular nerve",
    "Dorsal digital branches of deep fibular nerve"
   ],
-  "note": "Piel: solo el primer espacio interdigital dorsal."
+  "note": "Piel: solo el primer espacio interdigital dorsal.",
+  "via": [],
+  "route": "Plexo sacro → ciático → fibular común → fibular profundo."
  },
  {
   "key": "Sural nerve",
@@ -964,7 +1107,9 @@
   "show": [
    "Sural nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo sacro → ciático → tibial (cutáneo sural medial) + fibular común (ramo comunicante) → nervio sural."
  },
  {
   "key": "Pudendal nerve",
@@ -990,7 +1135,9 @@
   "show": [
    "Pudendal nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Plexo sacro (pudendo): S2–S4, sale por el foramen ciático mayor y vuelve por el menor (canal de Alcock)."
  },
  {
   "key": "Accessory nerve (XI)",
@@ -1005,7 +1152,9 @@
   "show": [
    "Accessory nerve (XI)"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Hypoglossal nerve (XII)",
@@ -1022,7 +1171,9 @@
   "show": [
    "Hypoglossal nerve (XII)"
   ],
-  "note": "Genihioideo y tirohioideo: fibras de C1 que viajan con el XII."
+  "note": "Genihioideo y tirohioideo: fibras de C1 que viajan con el XII.",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Oculomotor nerve (III)",
@@ -1040,7 +1191,9 @@
   "show": [
    "Oculomotor nerve (III)"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Trochlear nerve (IV)",
@@ -1054,7 +1207,9 @@
   "show": [
    "Trochlear nerve (IV)"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Abducens nerve (VI)",
@@ -1068,7 +1223,9 @@
   "show": [
    "Abducens nerve (VI)"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Ophthalmic nerve",
@@ -1097,7 +1254,9 @@
   "show": [
    "Ophthalmic nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Maxillary nerve",
@@ -1138,7 +1297,9 @@
   "show": [
    "Maxillary nerve"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Trigeminal nerve (V)",
@@ -1192,7 +1353,9 @@
    "Nerve to mylohyoid muscle",
    "Lingual nerve"
   ],
-  "note": "Motor: músculos de la masticación (V3). Para la piel de V1 y V2 selecciona nervio oftálmico/maxilar."
+  "note": "Motor: músculos de la masticación (V3). Para la piel de V1 y V2 selecciona nervio oftálmico/maxilar.",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Facial nerve (VII)",
@@ -1229,7 +1392,9 @@
    "Facial nerve (VII)",
    "Chorda tympani"
   ],
-  "note": "Motor de la mímica. La cuerda del tímpano lleva gusto de los 2/3 anteriores de la lengua."
+  "note": "Motor de la mímica. La cuerda del tímpano lleva gusto de los 2/3 anteriores de la lengua.",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Glossopharyngeal nerve (IX)",
@@ -1243,7 +1408,9 @@
   "show": [
    "Glossopharyngeal nerve (IX)"
   ],
-  "note": ""
+  "note": "",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  },
  {
   "key": "Vagus nerve (X)",
@@ -1268,6 +1435,8 @@
   "show": [
    "Vagus nerve (X)"
   ],
-  "note": "También inervación parasimpática de vísceras torácicas y abdominales."
+  "note": "También inervación parasimpática de vísceras torácicas y abdominales.",
+  "via": [],
+  "route": "Nervio craneal: nace del tronco encefálico; no forma parte de un plexo espinal."
  }
 ]

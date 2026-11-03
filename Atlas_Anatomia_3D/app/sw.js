@@ -1,5 +1,5 @@
 // Service worker: guarda la app completa en el teléfono para usarla sin conexión.
-const VERSION = 'atlas3d-202610301705';
+const VERSION = 'atlas3d-202611031001';
 const FILES = [
   "./",
   "app.js",
@@ -11,6 +11,7 @@ const FILES = [
   "data/layers.json",
   "data/lymphatics.json",
   "data/meta.json",
+  "data/plexus.json",
   "data/sys1.glb",
   "data/sys2.glb",
   "data/sys3.glb",
